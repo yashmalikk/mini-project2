@@ -287,9 +287,6 @@ public class BigFraction {
     if (this.denom.equals(BigInteger.ONE)) {
       return this.num.toString();
     } // return a whole number if denom is one.
-    // Lump together the string represention of the numerator,
-    // a slash, and the string representation of the denominator
-    // return this.num.toString().concat("/").concat(this.denom.toString());
     return simplified.num + "/" + simplified.denom;
   } // toString()
 
