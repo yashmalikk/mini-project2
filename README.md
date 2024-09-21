@@ -4,7 +4,7 @@ Yash Malik
 
 A project for CSC-207 2024Fa.
 
-This program allows you to do something when I make it
+This program allows you to do calculations on the command line, as well as in an interactive calculator.
 
 No resources outside of class were used to create the above mentioned java files.
 
